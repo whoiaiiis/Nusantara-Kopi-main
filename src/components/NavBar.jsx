@@ -70,7 +70,7 @@ function NavBar() {
             <a href="/kontak">Kontak</a>
           </li>
           <li>
-            <a href="/produk">Product</a>
+            <a href="/produk">Produk</a>
           </li>
         </ul>
       )}

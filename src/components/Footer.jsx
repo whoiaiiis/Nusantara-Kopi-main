@@ -32,7 +32,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2" />
-                <span>Jl. parak palembang inilah </span>
+                <span>Jl. Sungai Sahang</span>
               </li>
             </ul>
           </div>

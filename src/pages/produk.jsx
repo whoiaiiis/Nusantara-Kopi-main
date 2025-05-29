@@ -12,7 +12,7 @@ function Produk() {
       <NavBar />
       <Menu />
      <MenuPro />
-      
+
       <Footer />
     </div>
   )
