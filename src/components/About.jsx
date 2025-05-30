@@ -4,8 +4,7 @@ import { Coffee, Flame, Truck, Users, User, Handshake } from "lucide-react";
 function About() {
   return (
     <div className="overflow-hidden">
-
-
+{/*  */}
       <section className="bg-[#6A2E1E] text-yellow-200 text-center py-16 px-6">
         <h2 className="text-4xl sm:text-5xl font-bold mb-4">Tentang Kopi Nusantara</h2>
         <p className="text-lg sm:text-xl">Perjalanan kami dalam menghadirkan kopi terbaik dari berbagai penjuru Nusantara</p>
